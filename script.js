@@ -38,7 +38,7 @@ $(document).ready(function(){
     //Typing object
     var typed = new Typed('.typing',{
         strings: ['RPA Developer','Software Developer',"Network Engineer"
-        ,"Data Science Enthusiast", "IoT Developer","Computer Engineer"],
+        ,"Data Science Enthusiast", "Data Analyst Enthusiast", "IoT Developer","Power Platform Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
